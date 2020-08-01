@@ -1,5 +1,8 @@
 """
-Penis3 Django settings for py_website project.
+
+HTW SAAR Django settings for py_website project.
+
+
 
 3333 by 'django-admin startproject' using Django 3.1rc1.
 
