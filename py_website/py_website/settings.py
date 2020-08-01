@@ -7,7 +7,7 @@
 3333 by 'django-admin startproject' using Django 3.1rc1.
 
 GITHUB33334566
-
+FINAL TEST
 For more information on this file, see
 https://docs.djangoproject.com/en/dev/topics/settings/
 
