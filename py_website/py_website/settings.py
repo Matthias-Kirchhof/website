@@ -1,6 +1,6 @@
 """
 
-HTW SAAR Django settings for py_website project.
+3333 Django settings for py_website project.
 
 
 
